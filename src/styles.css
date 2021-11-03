@@ -127,3 +127,8 @@ input:hover {
 .today-temp {
   font-size: 46px;
 }
+.open-source {
+  font-size: 10px;
+  text-align: center;
+  padding-left: 35px;
+}
